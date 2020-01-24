@@ -111,6 +111,8 @@
         "$schema": "https://w3id.org/dats/schema/license_schema.json",
         "@type": "Licence",
         "dataUsesConditions": {
+            "$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+            "@type": "Annotation",
             "value": "Data used in preparation of this article were obtained from the Pre-symptomatic Evaluation of Novel or Experimental Treatments for Alzheimer’s Disease (PREVENT-AD) program. (Breitner et al., 2016 & Tremblay-Mercier, Madjar, et al., 2019)"
         }
     },
