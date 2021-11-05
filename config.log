@@ -1,0 +1,1 @@
+1581957094.399054093s annex.largefiles largerthan=1kb and include=*.txt and not (include=logo.png or include=DATS.json or include=README.md or include=loris.cfg or include=crawl.cfg)
