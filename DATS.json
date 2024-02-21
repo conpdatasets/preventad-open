@@ -346,6 +346,14 @@
       ]
     },
     {
+      "category": "registrationPage",
+      "values": [
+        {
+          "value": "https://openpreventad.loris.ca/login/request-account/"
+        }
+      ]
+    },
+    {
       "category": "contact",
       "values": [
         {
