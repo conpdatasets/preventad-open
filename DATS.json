@@ -55,10 +55,13 @@
   ],
   "version": "2.0",
   "availability": "available",
-  "privacy": "open",
+  "privacy": "registered",
   "licenses": [
     {
-      "name": "https://openpreventad.loris.ca/images/Open_PREVENT-AD_Terms_of_Use.png",
+      "name": "Open PREVENT-AD Terms of Use",
+      "identifier": {
+        "identifier": "https://openpreventad.loris.ca/images/Open_PREVENT-AD_Terms_of_Use.png"
+      },
       "extraProperties": [
 	{
           "category": "dataUsesConditions",
